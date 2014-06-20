@@ -9,6 +9,11 @@
   <name>Attendees</name>
   <description>attendees</description>
   <url>https://github.com/gheer/mavenrepo</url>
+  <scm>
+    <connection>scm:git@github.com:gheer/mavenrepo.git</connection>
+    <developerConnection>scm:git@github.com:gheer/mavenrepo.git</developerConnection>
+    <url>https://github.com/gheer/mavenrepo</url>
+  </scm>
   <dependencies>
     <dependency>
       <groupId>com.android.support</groupId>
