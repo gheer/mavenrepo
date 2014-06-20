@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>Template</groupId>
+  <artifactId>component</artifactId>
+  <version>unspecified</version>
+  <versioning>
+    <versions>
+      <version>unspecified</version>
+      <version>1.0Maven</version>
+    </versions>
+    <lastUpdated>20140619191742</lastUpdated>
+  </versioning>
+</metadata>
